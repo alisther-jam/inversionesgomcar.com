@@ -15,6 +15,13 @@
         <div class = "contImg">
             <img src="img/acero-inoxidable/img3-grande.jpg" width = "500" class = "img-fluid float-right d-block" alt="">
             <p>Exibidora grande</p>
+        <div>
+        <a class="" href="<?=base_url()?>cotizacion">
+            <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
+        </a>
+            
+        </a>
+        </div>   
         </div>
     </div>
 </section>
