@@ -33,14 +33,14 @@
                             <div><i class="fa fa-chevron-circle-right"></i></div>
                             <p class="mb-0"><a href="servicios">Equipos en acero inoxidables</a></p>
                         </div>
-                        <div class="info-contact d-flex mb-2">
+                        <!-- <div class="info-contact d-flex mb-2">
                             <div><i class="fa fa-chevron-circle-right"></i></div>
                             <p class="mb-0"><a href="servicios">Construcción y obras civiles</a></p>
-                        </div>
-                        <div class="info-contact d-flex mb-2">
+                        </div> -->
+                        <!-- <div class="info-contact d-flex mb-2">
                             <div><i class="fa fa-chevron-circle-right"></i></div>
                             <p class="mb-0"><a href="servicios">Alquiler de equipos y unidades de transportes</a></p>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-xl col-md-6 col-widget col-works">

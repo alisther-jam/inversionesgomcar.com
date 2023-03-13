@@ -49,7 +49,7 @@
                 </div>
             </div>
             
-            <div class="item d-flex align-items-center" style="background-image: url('<?=base_url()?>img/slider1.png')">
+            <!-- <div class="item d-flex align-items-center" style="background-image: url('<?=base_url()?>img/slider1.png')">
                 <div class="container d-flex flex-column justify-content-center">
                     <h1 class="display-5 text-white font-weight-black mb-1">Construcción y <br> Obras civiles</h1>
                     <div class="btn-box d-flex">
@@ -58,7 +58,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="item d-flex align-items-center" style="background-image: url('<?=base_url()?>img/slider2.png')">
                 <div class="container d-flex flex-column justify-content-center">
                     <h1 class="display-5 text-white font-weight-black mb-1">Estructuras <br>Metálicas</h1>
@@ -69,7 +69,7 @@
                     </div>
                 </div>
             </div>
-             <div class="item d-flex align-items-center" style="background-image: url('<?=base_url()?>img/slider3.png')">
+            <!-- <div class="item d-flex align-items-center" style="background-image: url('<?=base_url()?>img/slider3.png')">
                 <div class="container d-flex flex-column justify-content-center">
                     <h1 class="display-5 text-white font-weight-black mb-1">Alquiler de equipos y <br>unidades de transporte</h1>
                     <div class="btn-box d-flex">
@@ -78,7 +78,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="item d-flex align-items-center" style="background-image: url('<?=base_url()?>img/slider4.png')">
                 <div class="container d-flex flex-column justify-content-center">
                     <h1 class="display-5 text-white font-weight-black mb-1">Equipos en acero<br> inoxidables</h1>
