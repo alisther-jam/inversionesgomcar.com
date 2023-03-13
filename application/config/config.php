@@ -24,11 +24,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'https://www.inversionesgomcar.com/';
-// $config['base_url'] = 'https://inversionesgomcar.com/';
-//print_r($_SERVER['REQUEST_SCHEME'].'://'.$_SERVER['HTTP_HOST'].((isset($_SERVER['HTTPS']))?'':'/'."inversionesgomcar.com"));
-//print_r($_SERVER);
-//die();
-// $config['base_url'] = $_SERVER['REQUEST_SCHEME'].'://'.$_SERVER['HTTP_HOST'].((isset($_SERVER['HTTPS']))?'':'/'."inversionesgomcar.com");
 
 /*
 |--------------------------------------------------------------------------
