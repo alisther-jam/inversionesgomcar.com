@@ -119,7 +119,9 @@
                             <div class="transparent-box"></div>
                         </div>
                         <div class="service-body">
+                        <a href="<?=base_url()?>metalicos">
                             <h4 class="text-center"> Estructuras metálicas.</h4>
+                        </a>
                         </div>
                     </div>
                 </div>
@@ -130,11 +132,13 @@
                             <div class="transparent-box"></div>
                         </div>
                         <div class="service-body">
+                            <a href="<?=base_url()?>aceros">
                             <h4 class="text-center">Equipos en acero inoxidables. </h4>
+                            </a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 capabilities-box">
+                <!-- <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 capabilities-box">
                     <div class="service">
                         <div class="service-header">
                             <img src="<?=base_url()?>img/3.png" alt="" width="100%">
@@ -144,8 +148,8 @@
                             <h4 class="text-center">Construcción y obras civiles.</h4>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 capabilities-box">
+                </div> -->
+                <!-- <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 capabilities-box">
                     <div class="service">
                         <div class="service-header">
                             <img src="<?=base_url()?>img/4.png" alt="" width="100%">
@@ -154,8 +158,8 @@
                         <div class="service-body">
                             <h4 class="text-center">Alquiler de equipos y unidades de transporte</h4>
                         </div>
-                    </div>
-                </div>
+                    </div> 
+                </div> -->
             
             
             
