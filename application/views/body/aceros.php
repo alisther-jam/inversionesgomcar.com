@@ -17,7 +17,8 @@
             <p>Exibidora grande</p>
         </div>
         <div>
-        <a class="" href="<?=base_url()?>cotizacion">
+        <!-- <a class="btn-slide" href="contactanos"><i class="fa fa-telegram" aria-hidden="true"></i> Envianos un mensaje</a> -->
+        <a class="" href="<?=base_url()?>contactanos">
             <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
         </a>
 
