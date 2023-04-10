@@ -13,17 +13,58 @@
             eaque architecto facilis? Iusto laborum quibusdam assumenda incidunt <br>
             eius quasi officiis consectetur placeat quos accusamus.</div> -->
         <div class = "float-left">
-            <p><img src="img/acero-inoxidable/img3-grande.jpg" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <p><img src="img/catalogos_nov/001.png" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
             <a class="m-3" href="<?=base_url()?>contactanos">
             <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
             </a>
         </div>
         <div class = "float-right">
-            <p><img src="img/acero-inoxidable/img3-grande.jpg" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <p><img src="img/catalogos_nov/002.png" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <a class="m-3" href="<?=base_url()?>contactanos">
+            <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
+            </a> 
+        </div>
+        <br>
+        <br>
+        <div class = "float-left">
+            <p><img src="img/catalogos_nov/003.png" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
             <a class="m-3" href="<?=base_url()?>contactanos">
             <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
             </a>
-            
+        </div>
+        <div class = "float-right">
+            <p><img src="img/catalogos_nov/004.png" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <a class="m-3" href="<?=base_url()?>contactanos">
+            <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
+            </a> 
+        </div>
+        <br>
+        <br>
+        <div class = "float-left">
+            <p><img src="img/catalogos_nov/005.png" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <a class="m-3" href="<?=base_url()?>contactanos">
+            <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
+            </a>
+        </div>
+        <div class = "float-right">
+            <p><img src="img/catalogos_nov/006.png" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <a class="m-3" href="<?=base_url()?>contactanos">
+            <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
+            </a> 
+        </div>
+        <br>
+        <br>
+        <div class = "float-left">
+            <p><img src="img/catalogos_nov/007.png" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <a class="m-3" href="<?=base_url()?>contactanos">
+            <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
+            </a>
+        </div>
+        <div class = "float-right">
+            <p><img src="img/catalogos_nov/008.png" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <a class="m-3" href="<?=base_url()?>contactanos">
+            <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
+            </a> 
         </div>
 
         </div>
