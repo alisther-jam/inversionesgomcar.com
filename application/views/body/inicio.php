@@ -42,7 +42,7 @@
                 <div class="container exhib d-flex flex-column justify-content-center">
                     <h1 class="display-5 text-white font-weight-black mb-1">Exhibidoras y <br> conservadoras</h1>
                     <div class="btn-box d-flex">
-                        <a href="servicios" class="btn-card">
+                        <a href="aceros" class="btn-card">
                             Ver más
                         </a>
                     </div>
@@ -63,7 +63,7 @@
                 <div class="container d-flex flex-column justify-content-center">
                     <h1 class="display-5 text-white font-weight-black mb-1">Estructuras <br>Metálicas</h1>
                     <div class="btn-box d-flex">
-                        <a href="servicios" class="btn-card">
+                        <a href="metalicos" class="btn-card">
                             Ver más
                         </a>
                     </div>
@@ -83,7 +83,7 @@
                 <div class="container d-flex flex-column justify-content-center">
                     <h1 class="display-5 text-white font-weight-black mb-1">Equipos en acero<br> inoxidables</h1>
                     <div class="btn-box d-flex">
-                        <a href="servicios" class="btn-card">
+                        <a href="aceros" class="btn-card">
                             Ver más
                         </a>
                     </div>

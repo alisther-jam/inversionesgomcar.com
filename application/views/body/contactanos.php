@@ -8,12 +8,13 @@
         <div class="row">
             <div class="col-md-8">
               <div class="col-lg">
-                    <h3 class="mb-3">Envíanos tu mensaje</h3>
+                    <h3 class="mb-3">Envíanos un mensaje</h3>
+                    <hr>
                      <div class="confirmacion" style="text-align: center;margin: 0px 0px 10px;"></div>
                     <form id="form-mini" class="contactenos" method="post">
                         <div class="row-input d-flex">
                             <input type="text" required name="name" placeholder="Nombre *" class="first-item">
-                            <input type="email" required name="email" placeholder="E-mail *">
+                            <input class = "border border-info" type="email" required name="email" placeholder="E-mail *">
                         </div>
                         <div class="row-input d-flex">
                             <input type="text" required name="telefono" placeholder="telefono" class="first-item">

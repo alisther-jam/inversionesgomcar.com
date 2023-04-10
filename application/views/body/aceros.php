@@ -12,15 +12,19 @@
             adipisicing elit. Animi sint veritatis possimus quia ex tempore, <br>
             eaque architecto facilis? Iusto laborum quibusdam assumenda incidunt <br>
             eius quasi officiis consectetur placeat quos accusamus.</div> -->
-        <div class = "contImg">
-            <img src="img/acero-inoxidable/img3-grande.jpg" width = "500" class = "img-fluid float-right d-block" alt="">
-            <p>Exibidora grande</p>
-        </div>
-        <div>
-        <!-- <a class="btn-slide" href="contactanos"><i class="fa fa-telegram" aria-hidden="true"></i> Envianos un mensaje</a> -->
-        <a class="" href="<?=base_url()?>contactanos">
+        <div class = "float-left">
+            <p><img src="img/acero-inoxidable/img3-grande.jpg" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <a class="m-3" href="<?=base_url()?>contactanos">
             <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
-        </a>
+            </a>
+        </div>
+        <div class = "float-right">
+            <p><img src="img/acero-inoxidable/img3-grande.jpg" width = "500"  class = "img-fluid d-block rounded m-3"  alt=""></p>
+            <a class="m-3" href="<?=base_url()?>contactanos">
+            <button type="button" class="btn btn-primary">Cotiza tu Producto</button>
+            </a>
+            
+        </div>
 
         </div>
     </div>
